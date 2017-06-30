@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["for_url","Determine proxy parameters for a URL by examining the environment variables."]]});
